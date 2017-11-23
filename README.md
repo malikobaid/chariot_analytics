@@ -3,6 +3,7 @@ Chariot Analytics web app is designed to provide analytics for the [Chariot web 
 
 # Required Software for Chariot Analytics
 NOTE: If you have installed and run the Chariot server successfully then the software below will already be setup.
+
 [Docker compose](https://docs.docker.com/compose/install/)(You may have to [install docker engine](https://docs.docker.com/engine/installation/) if you're setting up the server on a Linux distribution).
 
 # Installing Chariot Analytics
