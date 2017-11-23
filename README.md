@@ -12,4 +12,6 @@ On the same machine running the chariot server. Clone the chariot_analytics repo
 From the Chariot server generate an Api Token. Then add the token and chariot server address in the [analytics_config.py](https://github.com/malikobaid/chariot_analytics/wiki/Analytics-Configuration-File) file
 
 Open terminal and navigate to the chariot_analytics directory run:
+```
 docker-compose up -d
+```
